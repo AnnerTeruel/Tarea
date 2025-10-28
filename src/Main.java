@@ -16,7 +16,7 @@ public class Main {
         //ciclo2.Ejercicio1(0);
         //ciclo2.Ejercicio2(0,1,10);
         //ciclo2.Ejercicio3(5);
-        ciclo2.Ejercicio4(5);
+        //ciclo2.Ejercicio4(5);
         //ciclo2.Ejercicio5(0,0);
 
 
