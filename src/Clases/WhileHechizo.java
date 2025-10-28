@@ -17,7 +17,7 @@ public class WhileHechizo {
 
 
     
-    //Ejercicio 2: Suma con Límite Recursiva
+    //Ejercicio 2: Suma con Limite Recursiva
 
     public  void Ejercicio2(int sumaActual, int numero, int LIMITE) {
         if (sumaActual > LIMITE) {
@@ -63,7 +63,7 @@ public class WhileHechizo {
     }
 
     
-    //Ejercicio 5: Impresión de Pares Recursivo
+    //Ejercicio 5: Impresion de Pares Recursivo
     public  void Ejercicio5(int numeroActual, int paresImpresos) {
 
         if (paresImpresos >= 5) {
